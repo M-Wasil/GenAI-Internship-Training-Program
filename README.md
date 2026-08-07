@@ -1,1 +1,0 @@
-# GenAI-Internship-Training-Program
