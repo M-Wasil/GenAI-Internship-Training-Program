@@ -652,10 +652,10 @@ GenAI-Internship-Training-Program/
 
 - ✅ **Module 1** · Python Foundations
 - ✅ **Module 2** · Advanced Python & Logic
-- 🟡 **Module 3** · NumPy, Pandas & ML
-- ⬜ **Module 4** · Data Engineering & ETL
-- ⬜ **Module 5** · Databases: SQL & NoSQL
-- ⬜ **Module 6** · APIs & FastAPI
+- ✅ **Module 3** · NumPy, Pandas & ML
+- ✅ **Module 4** · Data Engineering & ETL
+- ✅ **Module 5** · Databases: SQL & NoSQL
+- 🟡 **Module 6** · APIs & FastAPI
 - ⬜ **Module 7** · GenAI Foundations & Prompt Engineering
 - ⬜ **Module 8** · RAG Systems
 - ⬜ **Module 9** · Agentic AI & Tools
