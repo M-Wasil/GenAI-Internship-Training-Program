@@ -101,8 +101,8 @@ The program runs in two phases:
 | **2. Advanced Python & Logic** | Days 5–8 | Functions & scope, nested loops & algorithms, comprehensions, OOP & file I/O | Reusable `utils.py`, pattern/algorithm drills, bank-account OOP app | ✅ Done |
 | **3. NumPy, Pandas & ML** | Days 9–14 | NumPy arrays, Pandas I/II, visualization & EDA, regression, classification & clustering | EDA report, end-to-end ML mini-project | ✅ Done |
 | **4. Data Engineering & ETL** | Days 15–19 | ETL/ELT concepts, web scraping, API ingestion, ETL pipelines, orchestration | Full ETL pipeline (`etl_pipeline.py`), scheduled job | ✅ Done |
-| **5. Databases: SQL & NoSQL** | Days 20–24 | MySQL fundamentals, advanced SQL, PostgreSQL + Python, MongoDB & NoSQL | Scrape → DB pipeline (Phase 1 capstone) | 🟡 In Progress |
-| **6. APIs & FastAPI** | Days 25–27 | REST fundamentals, Pydantic/CRUD, auth/async/deployment | Deployed, authenticated CRUD API | ⬜ Upcoming |
+| **5. Databases: SQL & NoSQL** | Days 20–24 | MySQL fundamentals, advanced SQL, PostgreSQL + Python, MongoDB & NoSQL | Scrape → DB pipeline (Phase 1 capstone) | ✅ Done |
+| **6. APIs & FastAPI** | Days 25–27 | REST fundamentals, Pydantic/CRUD, auth/async/deployment | Deployed, authenticated CRUD API | 🟡 In Progress |
 | **7. GenAI Foundations & Prompt Engineering** | Days 28–32 | How LLMs work, prompt engineering, OpenAI API, embeddings & function calling | GenAI mini-app (study buddy / summarizer) | ⬜ Upcoming |
 | **8. RAG Systems** | Days 33–37 | RAG architecture, vector databases, LangChain/LlamaIndex pipelines, evaluation | "Chat with your Docs" RAG app | ⬜ Upcoming |
 | **9. Agentic AI & Tools** | Days 38–41 | Agent concepts, function/tool calling, real-time actions, agent frameworks | Multi-tool research-assistant agent | ⬜ Upcoming |
