@@ -48,10 +48,3 @@ class TokenData(BaseModel):
 class LoginRequest(BaseModel):
     email: EmailStr
     password: str
-
-class UserCreate(BaseModel):
-    email: EmailStr
-    username: str = Field(min_length=3, max_length=50)
-    full_name: Optional[str] = None
-    age: Optional[int] = Field(None, ge=0, le=150)
-    password: str = Field(min_length=8)
